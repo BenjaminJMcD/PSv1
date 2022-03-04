@@ -67,8 +67,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\ChiefsOpeningDay.jpg" />
+    <Content Include="assets\DungeonProgram.png" />
     <Content Include="assets\favicon.ico" />
+    <Content Include="assets\Fed1resize.jpeg" />
+    <Content Include="assets\Fed1Screenshot.jpeg" />
+    <Content Include="assets\IanMcClaflinProfile.jfif" />
+    <Content Include="assets\IcePorchNewer.jpg" />
     <Content Include="assets\img\bg-masthead.jpg" />
+    <Content Include="assets\JazRizoProfile.jfif" />
+    <Content Include="assets\MattRobertsProfile.jfif" />
+    <Content Include="assets\LinkedInProfile.png" />
+    <Content Include="assets\NiceBike.PNG" />
     <Content Include="assets\img\portfolio\fullsize\1.jpg" />
     <Content Include="assets\img\portfolio\fullsize\2.jpg" />
     <Content Include="assets\img\portfolio\fullsize\3.jpg" />
@@ -81,6 +91,9 @@
     <Content Include="assets\img\portfolio\thumbnails\4.jpg" />
     <Content Include="assets\img\portfolio\thumbnails\5.jpg" />
     <Content Include="assets\img\portfolio\thumbnails\6.jpg" />
+    <Content Include="assets\OrangeLamp.JPG" />
+    <Content Include="assets\PinkRecord.JPG" />
+    <Content Include="assets\PlazaLights1.jpg" />
     <Content Include="css\styles.css" />
     <Content Include="Contact.html" />
     <Content Include="Links.html" />
@@ -111,6 +124,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\ResumeBJM-Revised3-1-22.docx" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
